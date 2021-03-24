@@ -1,0 +1,5 @@
+[
+    {"id": 1, "nome":"Lasanha de carne", "precoP": 7, "precoM": 18, "precoG": 22},
+    {"id": 2, "nome":"Lasanha de frango", "precoP": 7, "precoM": 18, "precoG": 22},
+    {"id": 3, "nome":"Fricassê de frango", "precoP": 10, "precoM": 25, "precoG": 30}
+]

@@ -1,0 +1,7 @@
+[
+    {"id": 1, "nome":"Coca-Cola Lata (300ml)", "preco": 3.5, "disponivel": 1},
+    {"id": 2, "nome":"Fanta Laranja Lata (300ml)", "preco": 3.5, "disponivel": 1},
+    {"id": 3, "nome":"Coca-Cola (2L)", "preco": 10, "disponivel": 1},
+    {"id": 4, "nome":"Coroa Cola (2L)", "preco": 6, "disponivel": 1},
+    {"id": 5, "nome":"Coroa Guaraná (2L)", "preco": 6, "disponivel": 1}
+]

@@ -1,0 +1,87 @@
+/* cor base amarelo amber #FFAB00 */
+.conteudo{
+    margin: 0;
+    padding: 0;
+    min-height: 80vh;
+}
+
+.div-titulo{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.titulo{
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+    /* efeito */
+    text-shadow: -1px 1px 4px rgba(255,171,0,0.6);
+
+}
+
+/* itens cardapio personalização */
+.wraper-linha{
+    margin-top: 20px;
+    padding-left: 1vh;
+}
+
+.wraper-item{
+    text-align: center;
+    font-size: 12px;
+    border-radius: 20px;
+    font-weight: bolder;
+    margin-right: 4vw;
+    line-height: 40px;
+}
+
+.wraper-preco{
+    text-align: center;
+    border-radius: 30px;
+    margin-right: 1vw;
+    line-height: 26px;
+}
+
+.itemNome{
+    background-color: #d3d3d3;
+
+    -webkit-box-shadow: 0px 0px 7px -2px rgba(0,0,0,0.6); 
+box-shadow: 0px 0px 7px -2px rgba(0,0,0,0.6);;
+}
+.itemPar{
+    background-color: #e6e6e6;
+}
+
+.itemImpar{
+    background-color: #bdbdbd;
+}
+
+.preco{
+    font-size: 10px;
+    font-weight: bolder;
+}
+
+.item-add-nome-item{
+    color: #ffab00;
+}
+
+/* personalização tabs cores */
+.tabs .tab a{
+    color:#5a5a5a;
+}
+
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+    background-color: #fff3e0;
+    outline: none;
+}
+
+.tabs .tab a:hover,.tabs .tab a.active {
+	background-color:transparent;
+	color:#242424;
+}
+.tabs .tab.disabled a,.tabs .tab.disabled a:hover {
+	color:rgba(153, 150, 102, 0.7);	
+}
+.tabs .indicator {
+	background-color:#ffaa00;
+}
